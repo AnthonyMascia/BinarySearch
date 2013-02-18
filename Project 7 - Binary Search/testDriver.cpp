@@ -1,8 +1,6 @@
 // Programmer: Anthony Mascia
-// Course: CMPT 238
-// Due Date: November 15, 2012
 //
-// Program 7: Binary Search
+// Binary Search
 //
 // The purpose of this program is to demonstrate the use of the
 // binary search method. This program will implement the method both
